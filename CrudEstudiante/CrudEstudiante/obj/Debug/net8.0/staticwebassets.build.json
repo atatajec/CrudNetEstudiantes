@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VCNxu8Idc3wGsytbRlbWoaOEBt9JLAKMeO4exAfCX+I=",
+  "Source": "CrudEstudiante",
+  "BasePath": "_content/CrudEstudiante",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CrudEstudiante\\wwwroot",
+      "Source": "CrudEstudiante",
+      "ContentRoot": "C:\\Users\\atataje\\source\\repos\\CrudEstudiante\\CrudEstudiante\\wwwroot\\",
+      "BasePath": "_content/CrudEstudiante",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\atataje\\source\\repos\\CrudEstudiante\\CrudEstudiante\\wwwroot\\index.html",
+      "SourceId": "CrudEstudiante",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\atataje\\source\\repos\\CrudEstudiante\\CrudEstudiante\\wwwroot\\",
+      "BasePath": "_content/CrudEstudiante",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

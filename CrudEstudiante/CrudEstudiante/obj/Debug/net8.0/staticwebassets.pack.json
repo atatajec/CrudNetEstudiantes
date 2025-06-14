@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\atataje\\source\\repos\\CrudEstudiante\\CrudEstudiante\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CrudEstudiante.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CrudEstudiante.props",
+      "PackagePath": "build\\CrudEstudiante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CrudEstudiante.props",
+      "PackagePath": "buildMultiTargeting\\CrudEstudiante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CrudEstudiante.props",
+      "PackagePath": "buildTransitive\\CrudEstudiante.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
